@@ -1,8 +1,8 @@
 # Android Basics with Compose - Codelabs
 
-This repository contains my solutions to the Android Basics with Compose course codelabs from Google's Android Developer training.
+This repository contains solutions to the Android Basics with Compose course codelabs from Google's Android Developer training.
 
-## 📱 Projects Overview
+## Projects Overview
 
 ### Unit 1 - Your First Android App
 
@@ -97,5 +97,4 @@ These projects are based on Google's official [Android Basics with Compose](http
 ---
 
 **Developers:** Patrycja Gibek, Kacper Janiszewski
-**Course:** Programación de Aplicaciones Móviles Nativas  
 **Last Updated:** November 2025
