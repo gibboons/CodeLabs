@@ -63,10 +63,10 @@ A virtual art gallery app for browsing artwork with navigation controls.
 
 ### Unit 3 - Display Lists and Use Material Design
 
-#### 6. [30 Days App](./30DaysApp)
+#### 6. [10 Days App](./10DaysOfMusic)
 **Course:** [Unit 3](https://developer.android.com/courses/android-basics-compose/unit-3)
 
-A motivational app displaying daily tips or activities over 30 days.
+A motivational app displaying daily tips or activities over 10 days.
 
 **Interesting Aspects:**
 - First experience with LazyColumn for list rendering.
