@@ -97,4 +97,5 @@ These projects are based on Google's official [Android Basics with Compose](http
 ---
 
 **Developers:** Patrycja Gibek, Kacper Janiszewski
+
 **Last Updated:** November 2025
